@@ -3,7 +3,6 @@ import { NativeTabs } from "expo-router/unstable-native-tabs";
 export default function TabLayout() {
   return (
     <NativeTabs
-      // Warna accent ikon saat aktif (menggunakan gaya monokrom Mansio)
       tintColor="#18181B"
     >
       {/* 1. Home Tab */}

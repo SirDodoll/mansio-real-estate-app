@@ -15,9 +15,9 @@ module.exports = {
       },
       fontFamily: {
         sans: ["Geist-Regular"],
-        medium: ["Geist-Medium"],
-        semibold: ["Geist-SemiBold"],
-        bold: ["Geist-Bold"],
+        "geist-medium": ["Geist-Medium"],
+        "geist-semibold": ["Geist-SemiBold"],
+        "geist-bold": ["Geist-Bold"],
       },
     },
   },
